@@ -21,28 +21,29 @@ Requirements
 usage
 Once installed, run the code.
 -A menu will appear prompting for an input 1-6 to use the wanted function.
- ![alt text](image.png)
+ ![menu](menu.png)
 
 1.View Tasks - A list of tasks with the contact and status listed,
 to view the description for the task input the task ID
- ![alt text](image-1.png)
+ ![view task](view_task.png)
 
 The input was 1 so task 1 was shown.
 
 2.Create Task - It will ask for a subject, contact and description, when filled press 'Enter' to move onto the next field. Afterwards it will say 'successfully created' and the new task will be able to be filled.
- ![alt text](image-2.png)
+ ![create task](create_task.png)
 
 3.Update task - It will list the tasks and request the ID of the task you want to update. Once entered it ask for a new subject, contact and description(pressing 'Enter' to proceed to the next field) if left empty the field won't change.
- ![alt text](image-3.png)
+ ![update task](update_task.png)
 
 4.Close task - It will list the tasks and ask for the ID of the task you wish to close. When entered it will change the task status to closed instead of ongoing and return to the menu.
-![alt text](image-4.png)
+![status update](status_update.png)
 
 5.Delete task - It will list the tasks and ask for the ID of the one you wish to delete. when entered it will return a success message and return to the menu.
-![alt text](image-5.png)
+
+![delete task](delete_task.png)
 
 6.Logout - It will close the task manager, your tasks will be saved in the tasks.json file for the future.
-![alt text](image-6.png)
+![logout](logout.png)
 
 Credits
 - Adam
