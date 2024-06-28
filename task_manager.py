@@ -29,7 +29,7 @@ class Main:
         '''function to list the tasks, used with other functions'''
         for task in self.task_lst:
             print(f"""Task {task.task_id}:
-                    {task.subject} {task.contact} {task.status}""")
+- {task.subject}. - {task.contact}. Status: {task.status}.""")
 
     def update_task(self, task_id, subject=None, contact=None,
                     description=None):
