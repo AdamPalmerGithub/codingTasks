@@ -52,4 +52,6 @@ The input was 1 so task 1 was shown.
 ![logout](logout.png)
 
 Credits
-- Adam Palmer
+-Adam Palmer
+ 
+https://github.com/AdamPalmerGithub
