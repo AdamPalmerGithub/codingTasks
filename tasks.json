@@ -1,0 +1,16 @@
+[
+    {
+        "task_id": 1,
+        "subject": "Friday meeting",
+        "contact": "John Doe",
+        "description": "Meeting about magic",
+        "status": "Closed"
+    },
+    {
+        "task_id": 2,
+        "subject": "Lunch thief",
+        "contact": "steve mc'queen",
+        "description": "I know you keep stealing my lunch John",
+        "status": "Ongoing"
+    }
+]
